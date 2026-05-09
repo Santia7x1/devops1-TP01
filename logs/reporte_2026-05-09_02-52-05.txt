@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-09_02-52-05
+===============================
+
+--- CPU ---
+Uso CPU: 0,0%
+
+--- MEMORIA ---
+Total: 7,7Gi | Usado: 1,3Gi | Libre: 4,7Gi
+
+--- DISCO ---
+Total: 48G | Usado: 15G | Libre: 32G | Uso: 32%
+
+--- PROCESOS TOP 5 (por CPU) ---
+/usr/bin/gnome-shell CPU: 1.7%
+/usr/libexec/gnome-terminal-server CPU: 0.1%
+/usr/bin/VBoxDRMClient CPU: 0.0%
+[kworker/u16:2-flush-8:0] CPU: 0.0%
+[kworker/u16:1-events_unbound] CPU: 0.0%
+
+--- UPTIME ---
+ 02:52:05 up  1:39,  1 user,  load average: 0,05, 0,05, 0,00
