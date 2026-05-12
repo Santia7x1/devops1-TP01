@@ -11,3 +11,16 @@
 [2026-05-09 02:52:05] ============================================
 [2026-05-09 02:52:05] Todas las tareas completadas exitosamente
 [2026-05-09 02:52:05] ============================================
+[2026-05-12 17:22:27] ============================================
+[2026-05-12 17:22:27] Iniciando script de automatización del sistema
+[2026-05-12 17:22:27] Directorio base: /home/santiago/devops-TP01
+[2026-05-12 17:22:27] ============================================
+[2026-05-12 17:22:27] === TAREA 1: Iniciando backup ===
+[2026-05-12 17:22:27] Backup completado en: /home/santiago/devops-TP01/backups/backup_2026-05-12_17-22-27 (0 archivos)
+[2026-05-12 17:22:27] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-12 17:22:27] Limpieza completa. Archivos eliminados: 0
+[2026-05-12 17:22:27] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-12 17:22:28] Reporte guardado en: /home/santiago/devops-TP01/logs/reporte_2026-05-12_17-22-27.txt
+[2026-05-12 17:22:28] ============================================
+[2026-05-12 17:22:28] Todas las tareas completadas exitosamente
+[2026-05-12 17:22:28] ============================================
